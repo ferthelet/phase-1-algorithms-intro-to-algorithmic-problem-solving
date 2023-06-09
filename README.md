@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Understand what you will learn in this section
+- Understand what you will learn in this section.
 
 ## Introduction
 
